@@ -4,3 +4,8 @@ Big folder -> Specific Coding language -> coding project
 
 C++:
   Binary Tree Level Order Traversal - use of OOP and pointers to make a highly efficient node generation system
+
+Python:
+  XGBoost modelling - use of XGBoost package in Python to make a machine learning model estimating house sales prices
+  normality tests - use of scikit to hypothesis test variables for normality, construct experimental CDFs, and histograms
+  scatter plot - use of seaborn and matplotlib to make scatterplots for variables
