@@ -1,0 +1,1 @@
+I use SQLite, so there no use of right outer joins here, but I am familiar with the concept, available at any time to do the DP-300 certification, it's just not worth it for me financially unless an offer explicitly requests one
