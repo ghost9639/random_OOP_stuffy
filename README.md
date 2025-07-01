@@ -1,5 +1,4 @@
 # random_OOP_stuffy
-random leetcode or interesting OOP stuff if i remember to upload
-
+Uploaded coding projects 
 
 organisation stores basic summaries of each project
